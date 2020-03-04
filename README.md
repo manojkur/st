@@ -1,5 +1,5 @@
 # Personal clone of suckless st
-<st.suckless.org>
+[st.suckless.org]<br/>
 Version: 0.8.2
 
 ## Patches
