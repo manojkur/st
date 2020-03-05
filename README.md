@@ -5,3 +5,4 @@ Version: 0.8.2
 ## Patches
 * alpha
 * anysize
+* scrollback
