@@ -3,4 +3,4 @@
 Version: 0.8.2
 
 ## Patches
-none so far
+* alpha
