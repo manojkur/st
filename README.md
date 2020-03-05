@@ -6,3 +6,4 @@ Version: 0.8.2
 * alpha
 * anysize
 * scrollback
+* scrollback-mouse
