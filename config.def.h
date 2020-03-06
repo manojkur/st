@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Consolas:pixelsize=14:antialias=true:autohint=true";
+static char *font = "Consolas for Powerline,Conolas for Powerline FixedD:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 4;
 
 /*
