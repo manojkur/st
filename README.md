@@ -7,3 +7,4 @@ Version: 0.8.2
 * anysize
 * scrollback
 * scrollback-mouse
+* boxdraw
