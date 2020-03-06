@@ -8,3 +8,4 @@ Version: 0.8.2
 * scrollback
 * scrollback-mouse
 * boxdraw
+* nordtheme
